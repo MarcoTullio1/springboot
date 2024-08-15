@@ -23,4 +23,4 @@ Antes de começar, certifique-se de ter os seguintes componentes configurados:
 - **Maven**: Para gerenciar dependências.
 - **Postman**: Para testar as requisições HTTP.
 - **PgAdmin** (Postgres): Para gerenciar o banco de dados PostgreSQL.
-- **IDE** (IntelliJ, STS, Eclipse, etc): Para desenvolver o projeto.
+- **IDE** (IntelliJ, STS, Eclipse, etc): Para caso queira fazer alguma alteração no código do projeto.
